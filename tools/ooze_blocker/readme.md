@@ -1,4 +1,7 @@
+
 Simple ooze blocker for parking nozzles over 3mm high temperature silicone pieces. Prevents nozzle ooze during parked position, and just makes life a little bit easier when doing multi-material prints.
+
+![Image of ooze blocker](https://github.com/HaythamB/Jubilee_9mm_MGN15_Conversion/blob/master/tools/ooze_blocker/ooze_blocker_rear_closeup.jpg)
 
 You'll need 2x M5x10mm screws and 2x M5 drop-in t-nuts to assemble it. Simply sits on a 2020 extrusion below the tool which you can move up to touch the nozzle. 
 
