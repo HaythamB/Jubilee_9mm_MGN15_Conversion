@@ -2,6 +2,8 @@ Please print the tool plate with the circle side down against the bed, such that
 
 For the wings, I tend to print them standing on their rear edge and standing tall, with or without a brim (depending on your printer setup). 
 
+When assembling, use some 2mm spacers between the Hemera motor and the tool plate if you'd like some space for wire routing, and a little breathing room for the extruder motor during operation.
+
 Front view:
 ![front](https://github.com/HaythamB/Jubilee_9mm_MGN15_Conversion/blob/master/tools/Hemera_plate/front.jpg)
 
