@@ -2,3 +2,11 @@ Please print the tool plate with the circle side down against the bed, such that
 
 For the wings, I tend to print them standing on their rear edge and standing tall, with or without a brim (depending on your printer setup). 
 
+Front view:
+![front](https://github.com/HaythamB/Jubilee_9mm_MGN15_Conversion/blob/master/tools/Hemera_plate/front.jpg)
+
+Side view:
+![side](https://github.com/HaythamB/Jubilee_9mm_MGN15_Conversion/blob/master/tools/Hemera_plate/side.jpg)
+
+Rear view:
+![rear](https://github.com/HaythamB/Jubilee_9mm_MGN15_Conversion/blob/master/tools/Hemera_plate/rear.jpg)
